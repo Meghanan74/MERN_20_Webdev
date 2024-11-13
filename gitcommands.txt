@@ -1,0 +1,13 @@
+Following commands to commit code on github
+1.git init: initialise an empty .git folder in the current working directory.
+2.git add . :stage all the file in the current directory
+             (to indicate which files should be added to the .git folder).
+
+3.git commit -m "commit message" : to commmit the files into the .git folder.
+
+4.git branch m-main: to create a branch(sub folder) in the repository
+
+5.git remote add origin <github repository url> : to link the local repository to the remote repository
+                                                 (git folder in the git hub serve)
+
+6.git push -u origin main : to push the local repository to the remote repository.
